@@ -8,7 +8,7 @@ git clone https://github.com/toufiqnuur/simple-ytdl.git
 
 Masuk ke direktori ytdl
 ```
-cd ytdl/
+cd simple-ytdl/
 ```
 
 Install module
