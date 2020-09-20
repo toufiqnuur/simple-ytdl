@@ -21,5 +21,10 @@ Jalankan Server
 node index.js
 ```
 
+Server running on port 3000
+```
+localhost:3000
+```
+
 Good luck! 
 
